@@ -1,0 +1,4 @@
+name: literate-spork
+depend: cubical
+include: .
+flags: --cubical --safe
